@@ -1,9 +1,15 @@
-# Ashutosh_profile_readme-
+<!-- Typing SVG Banner -->
+<p align="center">
+  <a href="https://github.com/ashutoshkr2154">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78E1E&center=true&vCenter=true&width=600&lines=Hi+I'm+Ashutosh+Kumar+👋;AI+%26+ML+Enthusiast+🤖;Data+Science+%26+Analytics+Specialist📊;Generative+AI+%7C+Agentic+AI+%7C+LLMs;Always+Learning+%26+Building+💡" alt="Typing SVG" />
+  </a>
+</p>
 
-# 👋 Hi, I'm Ashutosh Kumar  
+---
 
+# 👋 About Me  
 🚀 **Computer Science & Data Science Student | AI/ML Enthusiast | Aspiring Data Analyst & AI Engineer**  
-🎯 Passionate about building intelligent systems with **Data, Machine Learning, and Generative AI**  
+🎯 Passionate about **Machine Learning, Generative AI, and Intelligent Systems**  
 
 ---
 
@@ -70,10 +76,29 @@
 
 ---
 
-## 📈 GitHub Stats  
+## 🏅 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ashutoshkr2154&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
+</p>
 
-![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashutoshkr2154&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshkr2154&layout=compact&theme=radical)  
+---
+
+## 📊 GitHub Stats & Streak  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashutoshkr2154&show_icons=true&theme=radical" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashutoshkr2154&theme=radical" height="180px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshkr2154&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 📌 Featured Projects  
+🔹 [Portfolio Website](https://ashutoshkr2154.github.io/Portfolio/)  
+🔹 [Telegram API Project (Flask + Telethon)](https://github.com/ashutoshkr2154) *(replace with actual repo link)*  
+🔹 [Data Science Projects](https://github.com/ashutoshkr2154?tab=repositories)  
 
 ---
 
@@ -84,4 +109,12 @@
 
 ---
 
-⭐ *Always eager to collaborate on AI/ML projects, chatbot systems, and Generative AI research.*  
+<p align="center"> 
+  Visitor Count:  
+  <img src="https://profile-counter.glitch.me/ashutoshkr2154/count.svg" />
+</p>
+
+---
+
+✨ *Always eager to collaborate on AI/ML research, chatbot systems, and Generative AI innovations.*  
+
