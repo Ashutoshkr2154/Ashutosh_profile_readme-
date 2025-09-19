@@ -96,8 +96,7 @@
 ---
 
 ## 📌 Featured Projects  
-🔹 [Portfolio Website](https://ashutoshkr2154.github.io/Portfolio/)  
-🔹 [Telegram API Project (Flask + Telethon)](https://github.com/ashutoshkr2154) *(replace with actual repo link)*  
+🔹 [Portfolio Website](https://ashutoshkr2154.github.io/Portfolio/) 
 🔹 [Data Science Projects](https://github.com/ashutoshkr2154?tab=repositories)  
 
 ---
@@ -106,15 +105,6 @@
 - 🌐 [Portfolio](https://ashutoshkr2154.github.io/Portfolio/)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/ashutosh-kumar-122327245/)  
 - 📧 Email: **ashutoshkr2154@gmail.com**  
-
----
-
-<p align="center"> 
-  Visitor Count:  
-  <img src="https://profile-counter.glitch.me/ashutoshkr2154/count.svg" />
-</p>
-
----
 
 ✨ *Always eager to collaborate on AI/ML research, chatbot systems, and Generative AI innovations.*  
 
